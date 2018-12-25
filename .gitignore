@@ -1,0 +1,10 @@
+*.php
+# this is a comment
+!index.php
+.DS_Store
+*.zip
+*.gz
+log/*.log
+assets/photoshop
+assets/videos
+!assets/videos/tour_*.mp4
